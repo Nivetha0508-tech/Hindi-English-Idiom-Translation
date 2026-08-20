@@ -625,3 +625,16 @@ The project demonstrates practical experience with:
 - Git and Version Control
 
 *This is the version I recommend using now.** It reflects what you actually completed rather than presenting the project as only a general translation model.*
+
+---
+
+## 🤖 Trained Model
+
+The final idiom-specialized model is generated locally after running the
+idiom-specific fine-tuning pipeline.
+
+The trained model directory is:
+
+```text
+fine_tuned_idiom_model/
+```
