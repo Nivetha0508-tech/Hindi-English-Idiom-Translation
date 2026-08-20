@@ -1,0 +1,101 @@
+hindi,english
+अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें,Give your application an accessibility workout
+एक्सेर्साइसर पहुंचनीयता अन्वेषक,Accerciser Accessibility Explorer
+निचले पटल के लिए डिफोल्ट प्लग-इन खाका,The default plugin layout for the bottom panel
+ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका,The default plugin layout for the top panel
+उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,A list of plugins that are disabled by default
+अवधि को हाइलाइट रकें,Highlight duration
+पहुंचनीय आसंधि (नोड) को चुनते समय हाइलाइट बक्से की अवधि,The duration of the highlight box when selecting accessible nodes
+सीमांत (बोर्डर) के रंग को हाइलाइट करें,Highlight border color
+हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता। ,The color and opacity of the highlight border.
+भराई के रंग को हाइलाइट करें,Highlight fill color
+हाइलाइट किया गया भराई का रंग और पारदर्शिता। ,The color and opacity of the highlight fill.
+एपीआई विचरक,API Browser
+"इस समय जिसे प्राप्त किया गया हो, उसकी विभिन्न विधियों (मेथड) में विचरण करें",Browse the various methods of the current accessible
+निजी गुणों को छिपाएं,Hide private attributes
+विधि,Method
+गुणधर्म,Property
+मान,Value
+आईपाइथन कन्सोल,IPython Console
+इस समय चुने गए एक्सेसेबेल से काम लेने के लिए अंतर्क्रियात्मक कन्सोल,Interactive console for manipulating currently selected accessible
+घटना मानिटर,Event monitor
+घटनाओं को मानिटर करें (_ M) ,_ Monitor Events
+चुनाव को हटाएं (C _) ,C _ lear Selection
+सभी,Everything
+चुने गए अनुप्रयोग,Selected application
+चुने गए एक्सेसेबेल,Selected accessible
+स्रोत,Source
+घटना मानिटर,Event Monitor
+"चुने गए प्रकारों और स्रोतों से घटनाएं जैसे-जैसे घटित होती हैं, उन्हें दर्शाता है",Shows events as they occur from selected types and sources
+अंतिम प्रविष्ट घटना को हाइलाइट करो,Highlight last event entry
+घटना रेकोर्डिंग शुरू करो/रोको,Start / stop event recording
+घटना रोजनामचा मिटाओ,Clear event log
+कोई विवरण नहीं,(no description)
+वर्णन,Description
+दिखाएं,Show
+पहुंचनीय,_ Accessible
+कार्रवाई संपन्न करें,Perform action
+कार्रवाई (_ o) ,Acti _ on
+आईडी,ID
+औजार बक्सा,Toolkit
+संस्करण,Version
+अनुप्रयोग,Ap _ plication
+संग्रह,Col _ lection
+"0, 0","0, 0"
+सापेक्ष स्थिति,Relative position
+आकार,Size
+विडजेट,WIDGET
+स्तर,Layer
+एमडीआई-जेड-क्रम,MDI - Z - order
+अल्फा,Alpha
+निरपेक्ष स्थिति,Absolute position
+घटक,Co _ mponent
+डेस्कटोप,Des _ ktop
+स्थान-विशिष्टः,Locale:
+प्रलेख,_ Document
+हाइपरकड़ी,Hyperlink
+हाइपरपाठ,H _ ypertext
+स्थिति,Position
+वर्णन,Description
+स्थान-विशिष्ट,Locale
+छवि (_ I) ,_ Image
+प्रवेश सहायक,Lo _ gin Helper
+सभी चुनें,Select All
+चयन (_ S) ,_ Selection
+प्रवाहित करनेयोग्य विषयवस्तु,St _ reamable Content
+चुने गए स्तंभ,Selected columns
+चुनी गई पंक्तियां,Selected rows
+स्तंभ,Columns
+पंक्तियां,Rows
+& lt; bgt; सारणी सूचनाlt;/bgt; ,Table Information
+"नाम (x, y) ","name (x, y)"
+शीर्षकः,Header:
+विस्तारः,Extents:
+पंक्ति,Row
+स्तंभ,Column
+& lt; bgt; चुनी गई कोशिकाlt;/bgt; ,Selected Cell
+सारणी (_ T) ,_ Table
+ओफसेट,Offset
+डिफोल्टों को शामिल करें,Include defaults
+पाठ (_ x) ,Te _ xt
+मौजूदा मान,Current value
+न्यूनतम वृद्धि,Minimum increment
+अधिकतम मान,Maximum value
+न्यूनतम मान,Minimum value
+मान,Val _ ue
+अंतराफलक दर्शक,Interface Viewer
+अंतराफलक के विभिन्न गुणों को देखने देता है,Allows viewing of various interface properties
+(क्रियान्वित नहीं हुआ है) ,(not implemented)
+नाम,Name
+यूआरआई,URI
+प्रारंभ,Start
+अंत,End
+बहुत अधिक चयनीय शिशु हैं,Too many selectable children
+तेज चुनाव,Quick Select
+प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां,Plugin with various methods of selecting accessibles quickly.
+अंतिम बार फोकस किए गए एक्सेसेबल को जांचें,Inspect last focused accessible
+"माउस के अधीन जो एक्सेसेबल है, उसे जांचें",Inspect accessible under mouse
+वतनी,Native
+श्वानपुच्छ,Dogtail
+एलडीटीपी,LDTP
+लिपि प्रकार,Script Type

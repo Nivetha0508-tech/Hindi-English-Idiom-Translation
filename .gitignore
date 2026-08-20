@@ -1,0 +1,32 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Hugging Face cache
+.cache/
+.huggingface/
+
+# Training checkpoints
+results/checkpoint-*/
+large_results/checkpoint-*/
+fine_tuned_idiom_model/checkpoint-*/
+
+# Local trained models
+fine_tuned_idiom_model/
+fine_tuned_large_model/
+fine_tuned_model/
+idiom_fine_tuned_model/
+
+# Generated evaluation files
+data/*predictions.csv
+data/*analysis.csv
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

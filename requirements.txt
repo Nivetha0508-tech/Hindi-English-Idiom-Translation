@@ -1,0 +1,12 @@
+PYTHON LIBRARIES
+
+torch
+transformers
+datasets
+pandas
+numpy
+sacrebleu
+sentencepiece
+sacremoses
+fastapi
+uvicorn

@@ -1,0 +1,1001 @@
+hindi,english
+प्रोफ़ाइल,Profiles
+एस्लेरियॉट सॉलिटेयर,AisleRiot Solitaire
+दाखिल हो रहा हैः% s,Entering:% s
+उपकरण पर लिखने में असमर्थ% s,Failed to execute autogen:% s
+बहुल स्कोरिंग,Multiplier Scoring
+बाहर,Quit
+निरपेक्ष स्थिति,Absolute position
+"फोकस योग्य% s में सारणी अंतराफलक है, कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state","focusable% s has table interface, no selection interface"
+स्थिति-पट्टी दिखाएँ या नहीं,Whether or not to show the status bar
+चिड़ी का छक्का,six of clubs
+हुकुम का दहला,ten of spades
+आधार पर खाली खाँचा,empty slot on foundation
+अनुप्रयोगः,Application:
+बेकार को भण्डार में ले जाएँ,Move waste to stock
+हाल में खेले खेल के नाम,Recently played games
+रोमानियाई,Romanian
+पढ़ने में विफल '% s':% s,Failed to read '% s':% s
+"% s जिस पर कार्रवाई हो सकती है, वह न तो फोकस करने योग्य है न ही चयनीय",actionable% s is not focusable or selectable
+बरबादीfoundationslot hint,waste
+दस आरपार,Ten Across
+कोई विवरण नहीं,No description
+ईंट का पंजा,five of diamonds
+विविध रंग,Alternating colors
+अस्थायी स्पॉट उपयोग स्वीकारें,Allow temporary spots use
+मैक्रो प्लगिन,Macro Plugin
+एक खाली चित्र जगह,an empty tableau place
+बिल्ड% d:% s,Build% d:% s
+प्रयोक्ता,Use
+नेपोलियन मकबरा,Napoleons Tomb
+“% s” के लिए मदद नहीं दिखा सका,Could not show help for “% s”
+पंक्ति,Line
+स्वचालित,Autoplay
+Anjuta वरीयता,Anjuta Preferences
+चुने गए एक्सेसेबलों को पुस्तक-चिह्नित करें,Bookmark selected accessible.
+एकार्डियन,Accordion
+कोई संकेत उपलब्ध नहीं है,No hint available.
+"स्ट्रिंग की सूची जो पांच गुने रूप में आता हैः name, wins, total games played, best time (सेकेंड में) और worst time (सेकेंड में ही). नहीं खेला गया खेल दिखाया नहीं जा सकता. ","A list of strings that come in the form of a quintuple: name, wins, total games played, best time (in seconds) and worst time (also in seconds). Unplayed games do not need to be represented."
+आप एक दुग्गी के लिए खोज रहे हैं. ,You are searching for a two.
+किसी वस्तु को तस्वीर के खाली खाँचे में ले जाएँ,Move something into the empty Tableau slot
+नया बीएसडी लाइसेन्स विवरण के लिए देखिए प्रतिलिपीकरण और सूचना फाइलें,The New BSD License See the COPYING and NOTICE files for details.
+सत्रें,Subversion
+स्थिति,Position
+फ़ाइल,File
+Anjuta घर पेज (_ H) ,Anjuta _ Home Page
+लाल पान की बेगम के बगल में लाल पान के वादशाह को रखें. ,Place the king of hearts next to the queen of hearts.
+ईंट का गुलाम,the jack of diamonds
+एक हाथ और बांटें,Deal another hand
+हुकुम का बादशाह,the king of spades
+"माउस के अधीन जो एक्सेसेबल है, उसे जांचें",Inspect accessible under mouse
+मादा मकड़ी,Spiderette
+सफलतापूर्वक फ्लापी को फार्मेट किया,New project has been created successfully
+थाई,Thai
+ईंट का दुक्का के बगल में ईंट का इक्का को रखें. ,Place the two of diamonds next to the ace of diamonds.
+प्रतियां,Compile
+बेकार के ऊपर के दो कार्ड का प्रयोग करें,Match the top two cards of the waste.
+लॉग देखिए,View Log
+रैण्डर करने के लिए पाठ,Text to render
+घटना मानिटर,Event monitor
+निचला पटल,Bottom panel
+मेकफाइल आधारित परियोजना,Makefile - based project
+प्रारंभ,Start
+फंक्शन,Function
+पंजा मिटाएँ,Remove the fives
+जोकरcard symbol,JOKER
+नियंत्रण की शैली का चयन करें,Select the style of control
+चिड़ी का दहला हटाएँ. ,Remove the five of clubs.
+एक दौर और चलें,Deal another round
+हुकुम का बादशाह हटाएँ. ,Remove the six of spades.
+पाठ,Text
+सताने वाला किला,Beleaguered Castle
+आटोमेक बिल्ड,Automake Build
+विषय सूची (_ C) ,_ Contents
+नया दृश्य... ,New View...
+~ a को चिड़ी का अट्ठा पर ले जाएँ,Move ~ a onto the eight of clubs.
+स्तर छोडें (_ l) ,File Wizard
+किसी वस्तु को तस्वीर के खाली खाँचे में ले जाएँ,Move something onto an empty tableau slot.
+फ़ाइल खोलें,Open a file
+"बधाई, आप जीत गए! ","Congratulations, you have won!"
+% s आधार परreserveslot hint,% s on foundation
+प्रारंभ,Started
+चिड़ी का इक्का,ace of clubs
+डील (_ D) ,_ Deal
+पसंदीदा,Favorite
+पूर्ण स्क्रीन,_ Full Screen
+मिटाया,Deleted
+क्लॉन्डिके तीन डेक,Klondike Three Decks
+सारे मेनू मूल जमावट में वापस करें? ,Revert all menus to original settings?
+कमांडः,Command:
+to pop up a dialog,Replace selection
+~ a को एक खाली स्लॉट में ले जाएँ. ,Move ~ a onto an empty slot.
+Jcard symbol,J
+परिवर्धित,Modified
+ग्रीक,Greek
+लकीर,Minute
+क्या पंक्ति संख्याएं दिखाना है,Whether to display line numbers
+लाल पान का दहला हटाएँ. ,Remove the ten of hearts.
+समयः,Time:
+फ्रीसेल,Freecell
+डिफ़ॉल्ट गनोम प्रसंग,Default GNOME Theme
+लाल पान का अट्ठा,Move ~ a onto the eight of hearts.
+अज्ञात पत्ता,the unknown card
+आधार पत्ताः बादशाह,Base Card: King
+'% s' फाइल में लिखने की त्रुटिः% s,Error writing% s
+#-#-#-#-#gtk +. gtk-2-2. hi. po (gtk22 VERSION) #-#-#-#-#व = द्धि (ऊंचाई) #-#-#-#-#libgnomecanvas. HEAD. hi. po (PACKAGE VERSION) #-#-#-#-#बढ़ाए,Register
+छापा जा रहा है,Printing
+बचा मालः ~ a,Stock left: ~ a
+शीर्षकः,Title:
+संबंध,Relations
+विषय सूची (_ C) ,_ Contents
+#-#-#-#-#gtk +. gtk-2-2. hi. po (gtk22 VERSION) #-#-#-#-#अण्डरलाइन (रेखांकन) #-#-#-#-#libgnomecanvas. HEAD. hi. po (PACKAGE VERSION) #-#-#-#-#अन्डरलाइन,Underline Plain
+सूचना,INFO
+फ़ॉन्टः,Font:
+लाल पान का नहला,nine of hearts
+एक्सेर्साइसर,Accerciser
+सभी चुनें (_ A) ,Select _ All
+जेनेरिक wx विजेट प्रोजेक्ट,A generic wx Widgets project
+फ़ाइल खोलें,Open file
+औजार (_ T) ,_ Tools
+चलाएँ (_ R) ,_ Run
+प्रोग्राम रोकें,Stop Program
+फाइल चुनें,Choose file
+प्रतिशतः,Percentage:
+निगरानी,Branches
+जेम्सटाउन,Jamestown
+स्मार्ट हाशिया,Smart Indentation
+लाल पान का दहला हटाएँ. ,Remove the ace of hearts.
+घटनाओं को मानिटर करें (_ M) ,_ Monitor Events
+पंजीकृत करें,Register
+खेल चुनें,Select Game
+खाली,Idle
+नेपोलियन मकबरा,Napoleons Tomb
+संदेश,Messages
+डिस्क के उन्नत विकल्पों को छुपाओ,Compiler and linker options
+पंक्तियां,Designer
+बदलें (_ R) ,_ Replace
+ज़ेनेरिक,Generic
+डेक में से नया पत्ता चलें,Deal new cards from the deck
+मिटाएं... (_ R) ,_ Remove...
+ईंट का दहला हटाएँ. ,Remove the queen of diamonds.
+#-#-#-#-#balsa. HEAD. hi. po (Balsa 2. x) #-#-#-#-#उपयोगकर्ता का नाम #-#-#-#-#eel. HEAD. hi. po (eel VERSION) #-#-#-#-#उपयोगकर्ता का नामः (_ U) ,Hostname:
+चिड़ी का अट्ठा,eight of clubs
+मोड्यूल,Java Module
+% s किसी समुच्चय का सदस्य नहीं है,% s does not belong to a set
+हुकुम का चव्वा,the four of spades
+खोज रहा है घटक के लिए,Component for searching
+शिफ्ट,Shift
+लछ्य फाइल,Info _ Target Files
+रेखांकित,Underline - Squiggle
+आधार पर एक पत्ता ले जाएँ,Move a card to the Foundation
+सत्रें,Use revision / tag:
+रविशंकर श्रीवास्तव (raviratlami @yahoo. com) राजेश रंजन (rajeshkajha @yahoo. com) ,translator - credits
+ईंट का चव्वा,four of diamonds
+किला,Fortress
+स्टार्टअप,started:
+किसी वस्तु को खाली तस्वीर खाँचे में ले जाएँ,Move something onto an empty tableau slot.
+ईंट का चव्वा,four of diamonds
+"बधाई, आप जीत गए! ","Congratulations, you have won!"
+लाल पान का छक्का,six of hearts
+विजेट्स,Widgets
+हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता। ,The color and opacity of the highlight border.
+सिलेक्शन के लिए हाइलाइट किया,Highlight
+डेक में से नया पत्ता चलें,Deal a new card from the deck
+अक्षम,Disable
+पसंद (_ B) menu,_ Bookmarks
+Purge items after% d days,Purge items after
+ताज़ा करें (_ R) ,_ Refresh
+वितरण पैकेज रिपोसिटरीज़ से नए कार्ड गेम प्रसंग संस्थापित करें,Install new card themes from the distribution packages repositories
+ईंट का दहला,ten of diamonds
+परियोजना विकल्प,Project root path
+चिड़ी का दहला हटाएँ. ,Remove the three of clubs.
+स्टाकslot type,stock
+लेखकः,Author:
+मत रिपोर्ट करें (_ D) ,_ Don 't report
+इस प्रोग्राम के साथ आपको ग्नू-जनरल पब्लिक लाइसेंस की प्रतिलिपि मिलनी चाहिए. यदि नहीं तो देखें. slot type,"You should have received a copy of the GNU General Public License along with this program. If not, see."
+अंतिम बार फोकस किए गए एक्सेसेबल को जांचें,Inspect last focused accessible
+पुस्तक चिह्नों को संपादित करें... ,Edit Bookmarks...
+भराई का रंगः,Fill color:
+लाल जोकर,the red joker
+देखें (_ V) ,_ View
+स्मार्ट हाशिया,Smart Indentation
+साइरिलिक,Cyrillic
+अधिसूचना,Notification
+विघटित लायब्रेरी,Shared Libraries
+लाल पान का दहला,the ten of hearts
+कोई डील फिर नहीं,No redeals
+% s किसी समुच्चय का सदस्य नहीं है,% s does not belong to a set
+ईंट का दहला हटाएँ. ,Remove the two of diamonds.
+लगातार संदेश,Go to next help page
+फाईल बनाओ,_ Make a file:
+स्थानीय,Local
+ठहरें (_ P) ,_ Pause
+पड़ोसी,Neighbor
+चुनें (_ S) ,_ Select
+स्वचालित हाशिया,Indent:
+प्रलेख,_ Document
+~ a को एक खाली आधार में ले जाएँ,Move ~ a to an empty foundation
+सर्वर की सेटिंग्स,Editor view settings
+टर्मिनल में चलाएं,Run in terminal
+लाल पान का नहला,the nine of hearts
+जोकर मिटाएँ,Remove the jacks
+समय,Time
+अनुप्रयोग,Ap _ plication
+प्रोजेक्ट,Project Version
+कार्य,Task
+परियोजना,Project:
+स्थान (_ L): ,_ Location:
+चुने गए स्तंभ,Selected columns
+~ a को चिड़ी का चौवा पर ले जाएँ,Move ~ a onto the four of clubs.
+Kcard symbol,K
+प्रक्रिया में जोड़ें,Attach to process
+बिल्ड (_ B) ,Build
+संदेश,Messages
+आठ बन्द,Eight Off
+क्रिया,Action
+ईंट का अट्ठा,the eight of diamonds
+पूर्ण स्क्रीन छोड़ें (_ L) ,_ Leave Fullscreen
+दस आरपार,Ten Across
+जायंट,Giant
+सक्रिय प्लगिन,Activated plugins
+एक खाली खाँचा,an empty slot
+सीहैवन,Seahaven
+आकार,Size
+प्रोफाइलिंग,Profiling
+विकल्प,Details
+नया त्वरक... ,New accelerator...
+पत्तों हेतु ग्राफ़िक्स सहित फ़ाइल का नाम. ,The name of the file with the graphics for the cards.
+संस्थापित प्लगिन,Installed plugins
+फोटो,Photos
+हुकुम का नहला,the nine of spades
+पहला नियम,First Law
+अज्ञात,Unknown
+गोआ,Grow
+सब से बुराः,Worst:
+संदेश सहेजें,Save message
+फुलस्क्रीन (_ F) ,_ Fullscreen
+6number,6
+हाल में खेले गए खेल के नाम. ,A list of recently played games.
+ऊपरी पटल के लिए खाका,The layout for the top panel
+उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,A list of plugins that are disabled by default.
+प्रक्रिया बाहर. ,Process exited.
+सत्रें,cvs _ revision
+प्रोग्राम पैरामीटर,Program Parameters
+समयः,Time:
+इस खेल में अब तक कोई संकेत समर्थन उपलब्ध नहीं है. ,This game does not have hint support yet.
+सफेदसिर (व्हाइटहेड) ,Whitehead
+ग्नोम खेल वेबसाइट,GNOME Games web site
+कोई फिल्टर का नाम निर्धारित नहीं है,No executable specified.
+घटक,Co _ mponent
+चिड़ी की दुक्की,the two of clubs
+सांख्यिकी (_ t) ,S _ tatistics
+~ a को एक लाल पान का अट्ठा पर ले जाएँ,Move ~ a onto the eight of hearts.
+~ a को चिड़ी का नहला पर ले जाएँ,Move ~ a onto the nine of clubs.
+Anjuta के लिए नमूना प्लगिन. ,Sample Plugin for Anjuta.
+और ताश बांटें,Deal more cards
+% s खिसकाएँ% s पर. ,Move% s onto% s.
+9,9
+पसंद (_ B) menu,_ Bookmarks
+9,9
+प्रश्न,Ask a _ Question
+~ a को लाल पान का बादशाह पर घुमाएँ. ,Move ~ a onto the king of hearts.
+पृष्ठभूमि का रंगः,Background color:
+प्रोग्राम पैरामीटर... ,Program Parameters...
+अग्रभूमि का रंगः,Foreground color:
+रेग्यूलर एक्सप्रेशन को मिलाता है,Modify watched expression
+एलीवेटर,Elevator
+संदेश,Message
+% s मुफ़्त सॉफ़्टवेयर है; इसे आप मुफ़्त सॉफ़्टवेयर फाउण्डेशन द्वारा प्रकाशित ग्नू जनरल पब्लिक लाइसेंस के तहत वितरित कर सकते हैं या परिवर्धित कर सकते हैं; लाइसेंस के% d संस्करण या इसके (अपने विकल्प अनुसार) बाद के संस्करण के तहत. ,"% s is free software; you can redistribute it and / or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version% d of the License, or (at your option) any later version."
+वर्तमान फाइल संग्रहित करें,Patch Plugin
+ट्रेज,Treize
+गुणधर्म,Property
+हुकुम का इक्का,the ace of spades
+वेलेंटाइन,Valentine
+चिड़ी की तिक्की,the three of clubs
+खाली तस्वीर खाँचा पर बादशाह को ले जाएँ,Move a king onto an empty tableau slot.
+संस्करण,Version
+कार्यकारी डायरेक्टरी,make: Leaving directory `% s'
+सिग्नल,Signals
+विन्यास,Setting
+ब्राउज़... ,Browse...
+ईंट का सत्ता,seven of diamonds
+हाइलाइट मोड (_ H) ,_ Highlight Mode
+चिड़ी का दहला हटाएँ. ,Remove the ten of clubs.
+~ a को एक ईंट का पंजा पर ले जाएँ,Move ~ a onto the five of diamonds.
+ढूंढ रहा है... ,Patching...
+"जब तक अत्यधिक आपात् स्थिति न हो, रक्त-बन्ध की सिफारिश नहीं की जाती",Tourniquets are not recommended unless in the direst emergency
+सामान्य नाम,GObject Class\t
+प्रोग्राम डिबगर के अंदर चलाएं,Say goodbye to the debugger
+सभी बंद करें,Clean module
+संशोधनः,Revision:
+हुकुम का गुलाम,the jack of spades
+विन्यास,Setting
+स्थान,Location
+~ a को एक सुरक्षित खाँचा पर ले जाएँ,Move ~ a onto an empty reserve slot.
+नियत तारीख़,Due date
+चार सूइट,Four Suits
+शीर्षकः,Header:
+बरबादीfoundationslot hint,waste
+C + +/Java Assistance,C + + / Java Assistance
+दस आरपार,Ten Across
+पिछली चाल पूर्ववत करें,Undo the last move
+ईंट का दहला हटाएँ. ,Remove the queen of diamonds.
+हुकुम की बेगम,the queen of spades
+~ a को चिड़ी का बादशाह पर ले जाएँ,Move ~ a onto the king of clubs.
+ईंट का सत्ता,the seven of diamonds
+अज्ञात पत्ता,the unknown card
+एक्सेर्साइसर पहुंचनीयता अन्वेषक,Accerciser Accessibility Explorer
+परियोजना बन्द करें,Malformed project
+हुकुम का छक्का,the six of spades
+ईंट का पंजा के बगल में ईंट का छक्का को रखें. ,Place the five of diamonds next to the four of diamonds.
+चलाने के लिए प्रोग्राम चुनेंः,Select Program to run:
+विल औ द विस्प,Will O The Wisp
+प्रोजेक्ट खोलें,Open _ Recent
+प्रविष्ट,Insert
+वर्ग जनक,Class Elements
+तिक्की मिटाएँ,Remove the threes
+~ a को ईंट का दहला पर घुमाएँ. ,Move ~ a onto the ten of diamonds.
+Generic python (automake) ,Generic python (automake)
+डेक में से नया पत्ता चलें,Deal new cards from the deck
+बेकार में से पत्ते ले जाएँ,Move card from waste
+कुत्ते के कान में कभी सीटी नहीं बजाएँ,Never blow in a dog 's ear
+परियोजना विकल्प,Project options
+मौजूदा बफर,Current
+फ़ाइल (_ F) ,_ File
+सी + + सोर्स कोड,C + + Source File
+सताने वाला किला,Beleaguered Castle
+राजा अलबर्ट,King Albert
+आधार पत्ताः रानी,Base Card: Queen
+सारणी (_ T) ,_ Table
+नया दृश्य... (_ N) ,_ New view...
+ईंट का चव्वा,the four of diamonds
+प्रोजेक्ट खोलें,_ Import Tree
+प्रविष्ट,Insert
+बदलें,Replace
+आधार पत्ताः,Base Card:
+जिप्सी,Gypsy
+कार्ड चालों में एनीमेशन उपयोग करें या नहीं. ,Whether or not to animate card moves.
+हुकुम की तिक्की,the three of spades
+अभी सक्रिय प्लगिन,Currently activated plugins
+चिड़ी का दहला,the ten of clubs
+टिप्पणी,_ Stream Comment / Uncomment
+ईंट का सत्ता,seven of diamonds
+क़िस्मः,Type:
+पंक्ति संख्या,Line numbers margin width in pixels
+जाल स्थल,Web site
+नया,New
+#-#-#-#-#gtk +. gtk-2-2. hi. po (gtk22 VERSION) #-#-#-#-#हाशिये से अंदर #-#-#-#-#libgnomeui. HEAD. hi. po (libgnomeui HEAD) #-#-#-#-#हाशिए को छोडकर,Insert macro
+चार सूइट,Four Suits
+Anjuta परिचय,About Anjuta
+शिशु,Children
+हेलसिंकी,Helsinki
+अंत,End
+हुकुम का नहला,the nine of spades
+मिटाएँ,Delete
+/ View/Todo List/Hide Items that are past due,/ View / Hide Completed Items
+नया दृश्य... (_ N) ,_ New view...
+कोड समाप्ति सक्रिय करें,Enable code completion
+शेष ताशः ~ a,Cards remaining: ~ a
+"नाम (x, y) ","name (x, y)"
+स्थिति,State
+अवधि को हाइलाइट रकें,Highlight duration
+घटना मानिटर,Event monitor
+ईंट का नहला,nine of diamonds
+लाल पान का बादशाह,the king of hearts
+राज्य,States
+मकड़ी,Spider
+% d%% Not ApplicableNot Applicable,% d%%
+निगरानी,_ Branches
+एक नया खेल प्रारंभ करें,Start a new game
+% s अपशिष्ट पर,% s on waste
+7number,7
+समय% Id% d,Time
+हिब्रू,Hebrew
+संशोधनः,Good revision:
+#-#-#-#-#balsa. HEAD. hi. po (Balsa 2. x) #-#-#-#-#हटाओ #-#-#-#-#gnome-desktop. HEAD. hi. po (gnome-desktop VERSION) #-#-#-#-#हटाएं #-#-#-#-#gnome-session. HEAD. hi. po (gnome-session VERSION) #-#-#-#-#हटाएं #-#-#-#-#gnome-utils. gnome-2-2. hi. po (gnome-utils 2.0) #-#-#-#-#हटाओ #-#-#-#-#nautilus. HEAD. hi. po (nautilus 2. x) #-#-#-#-#हटाएँ,Revert
+पंजी ताजा करें (_ R) ,_ Refresh Registry
+प्रसंग फ़ाइल का नाम जिसमें खेला जाने वाला सॉलिटेयर खेल है. ,The name of the scheme file containing the solitaire game to play.
+तीन,three
+कीवर्ड,_ CVS keyword
+% d:% 02d,% d:% 02d
+स्तर छोडें (_ l) ,File level
+मौजूद प्लगिन,Available API tags
+~ a को चिड़ी का अट्ठा पर ले जाएँ,Move ~ a onto the eight of clubs.
+फाइल को बदलने में असमर्थ,Failed to write autogen definition file
+मैक्रो प्लगिन,Macro Plugin
+मीटर,_ Reset
+बचा मालः,Stock left:
+~ a को एक सुरक्षित खाँचा पर ले जाएँ. ,Move ~ a onto the reserve.
+ज़ूम आउट,Zoom Out
+"फोकस योग्य% s में सारणी अंतराफलक है, लेकिन कोई चयनीय अंतराफलक नहीं हैbutton has focused state without focusable state","focusable% s has a table interface, but not a selection interface"
+पश्चिमी,Western
+#-#-#-#-#file-roller. gnome-2-2. hi. po (File Roller hindi) #-#-#-#-#जोडे #-#-#-#-#gnome-utils. gnome-2-2. hi. po (gnome-utils 2.0) #-#-#-#-#जोड़ना,_ Add
+भूल भुलैया,Maze
+समयः,Time:
+नया दृश्य... (_ N) ,_ New view...
+~ a को एक ईंट का नहला पर ले जाएँ. ,Move ~ a onto the nine of diamonds.
+रंग-पट्टिका,Palette
+लाल पान का नहला,the nine of hearts
+रिसेट करें (_ R) ,_ Reset
+ओडेसा,Odessa
+अंतराफलक दर्शक,Interface Viewer
+आधार पर खाली स्लॉट,an empty slot on the foundation
+हस्ताछर शामिल करो,Include Paths
+जारी रखें,_ Condition:
+डिबगर,Debugger
+उपयोक्ता द्वारा कमांड रद्द,Command canceled by user
+ज़ेनेरिक,Generic
+खाली,Idle
+सुरक्षित खाँचा पर बेकार को ले जाएँ,Move waste on to a reserve slot
+इस खेल में अब तक कोई संकेत समर्थन उपलब्ध नहीं है. ,This game does not have hint support yet.
+उपकरण-पट्टी दिखाएँ या नहीं,Whether or not to show the toolbar
+संदेश सहेजें,Save message
+चयन (_ S) ,_ Selection
+बादशाह मिटाएँ,Remove the kings
+कोने का एक खाली खाँचा,an empty corner slot
+प्लग-इन त्रुटियांviewport,Plugin Errors
+प्रसंग फाइल नाम,Theme file name
+खेल चुनें,Select Game
+बहुल स्कोरिंग,Multiplier Scoring
+गुणधर्म,Attributes:
+~ a को एक ईंट का नहला पर ले जाएँ. ,Move ~ a onto the nine of diamonds.
+सभी चुनें (_ A) ,Select file
+स्थिर घोषणाओं को छोड़ दें,After Declarations
+हुकुम का दहला,Remove the ten of spades.
+सीधा ऊपर,Straight Up
+इस समय चुने गए एक्सेसेबेल से काम लेने के लिए अंतर्क्रियात्मक कन्सोल,Interactive console for manipulating currently selected accessible
+Anjuta स्थिति,Anjuta Status
+दुक्की मिटाएँ,Remove the twos
+#-#-#-#-#balsa. HEAD. hi. po (Balsa 2. x) #-#-#-#-#अपडेट #-#-#-#-#gedit. gnome-2-2. hi. po (gedit VERSION) #-#-#-#-#अपडेट (अद्यतन) #-#-#-#-#gnome-applets. gnome-2-2. hi. po (gnome-applets 2. x) #-#-#-#-#अपडेट (अद्यतन) ,cvs _ date
+पास,Pass
+#-#-#-#-#balsa. HEAD. hi. po (Balsa 2. x) #-#-#-#-#बचाएँ #-#-#-#-#gedit. gnome-2-2. hi. po (gedit VERSION) #-#-#-#-#संग्रहित करें #-#-#-#-#nautilus. HEAD. hi. po (nautilus 2. x) #-#-#-#-#बचाओ,Save
+एकार्डियन,Accordion
+चाल फिर चलें (_ R) Reset,_ Redo Move
+लाल पान का दहला,the ten of hearts
+सत्र प्रबंधन आईडी निर्धारित करें,Specify session management ID
+किंग ऑडियंस,Kings Audience
+प्रारंभ,Start
+खेल फ़ाइल उपयोग में,The game file to use
+कया आप सचमुच लागाउट करना चाहेंगे? ,Are you sure that you do not want a log message?
+संदेश प्रबंधक,Message Manager
+उपकरण-पट्टी छुपाएँ या दिखाएँ,Show or hide the toolbar
+<dead> ,< dead >
+अनुप्रयोगः,Application:
+भूलभुलैया,Labyrinth
+लाल पान का दहला,ten of hearts
+जापानी,Japanese
+फेंटें मोड,Shuffle mode
+ईंट का बादशाह हटाएँ. ,Remove the nine of diamonds.
+आधार पत्ताः जोकर,Base Card: Jack
+हुकुम का नहला,nine of spades
+एपीआई विचरक,API Browser
+Wx विजेट,Wx Widgets
+पीआईडी,Pid
+अंजूटा वरीयता,Anjuta Preferences Dialog
+~ a को एक ईंट का छक्का पर ले जाएँ,Move ~ a onto the six of diamonds.
+स्वतः पूर्ण (_ A) ,_ AutoComplete
+हिब्रू,Hebrew
+स्थान-विशिष्ट,Locale
+ओफसेट,Offset
+किसी वस्तु को खाली तस्वीर खाँचे में ले जाएँ,Move something onto an empty tableau slot.
+~ a को एक लाल पान का दुक्का पर ले जाएँ,Move ~ a onto the two of hearts.
+~ a को एक ईंट का पंजा पर ले जाएँ,Move ~ a onto the five of diamonds.
+एक फाइल प्रविष्ट करें,Ignore Hidden Files
+अन्वेषण और प्रतिस्थापन,Find & Replace
+कार्यकारी डायरेक्टरी,Working directory:
+दृश्य,View
+~ a को अज्ञात पत्ता से बाहर ले जाएँ,Move ~ a onto the unknown card.
+अनुप्रयोग से बाहर जाएं,Pa _ use Program
+परिवर्धित,Modified
+प्रोग्राम को रोकें,Stop the program being debugged
+चिड़ी का दहला को हटायें. ,Remove the ten of clubs.
+हुकुम का बादशाह,the king of spades
+आधार पर एक पत्ता ले जाएँ,Move a card to the Foundation
+छोड़ रहा हैः% s,Loading Core:% s
+अंजूटा दस्तावेज मैनेजर,Anjuta _ Home Page
+चिड़ी का गुलाम,jack of clubs
+% (rolename) s अभिभावक सूची% (num1) d पंक्ति और स्तंभ सूची% (num2) d से मेल नहीं खाते,% (rolename) s parent index% (num1) d does not match row and column index% (num2) d
+परियोजना नामः,Target name:
+एटी-एसपीआई सत्यापक,AT - SPI Validator
+संस्करणः,Versioning…
+"""% s"" को खोल रहे. My tools (output) ",Opening% s
+फेंटें मोड,Shuffle mode
+खेल के पास कोई हल नहीं है. वापस ले या फिर शुरू करें. ,The game has no solution. Undo or start again.
+खाली बची अतिरिक्त जगह पर कुछ ले जाएँ,Move something on to an empty reserve
+कोई इनपुट डिवाइस नहीं है,No filename supplied.
+प्रोग्राम,Program
+कुलः,Total:
+वेब,Web
+ब्लॉड और बर्नेट,Blondes and Brunettes
+पंक्ति,Row
+लाल पान का इक्का,ace of hearts
+पंक्ति (या) ,Indent closing braces
+आटोमेक बिल्ड,Automake Build
+खाली अस्थायी खाँचा पर पत्ता ले जाएँ,Move a card to an empty temporary slot
+स्मृति रिसाव,Memory leaks
+पड़ोसी,Neighbor
+ईंट,diamonds
+काटें (_ t) ,Cu _ t
+अगला मिलान बदलें,Replace next match
+No such file or directory,The program is attached. Do you still want to stop the debugger?
+झांकें,Peek
+लोड,Load
+वितरण पैकेज रिपोसिटरीज़ से नए कार्ड गेम प्रसंग संस्थापित करें,Install new card themes from the distribution packages repositories
+हुकुम का सत्ता,seven of spades
+अन्य,Other
+दो सूट,Two Suits
+मान (_ V): ,_ Value:
+~ a को चिड़ी का दहला पर ले जाएँ,Move ~ a onto the ten of clubs.
+ताश के खेलः,Card games:
+मदद फ़ाइल “% s.% s” नहीं मिली,Help file “% s.% s” not found
+सहायता,_ Help
+टिप्पणी (_ m) ,Co _ mment
+(नहीं,No
+लोकप्रिय ताश का खेल फ्रीसेल खेलें,Play the popular FreeCell card game
+फाइल को खोलने में असमर्थ,Unable to open% s for writing
+घटक,Component
+हुकुम का नहला,the nine of spades
+एनीमेशन,_ Animations
+हाइलाइट किए गए सीमांत का रंग और अपारदर्शिता। ,The color and opacity of the highlight border.
+महत्वपूर्ण,Important
+#-#-#-#-#balsa. HEAD. hi. po (Balsa 2. x) #-#-#-#-#हटाओ #-#-#-#-#gnome-desktop. HEAD. hi. po (gnome-desktop VERSION) #-#-#-#-#हटाएं #-#-#-#-#gnome-session. HEAD. hi. po (gnome-session VERSION) #-#-#-#-#हटाएं #-#-#-#-#gnome-utils. gnome-2-2. hi. po (gnome-utils 2.0) #-#-#-#-#हटाओ #-#-#-#-#nautilus. HEAD. hi. po (nautilus 2. x) #-#-#-#-#हटाएँ,Remove
+एस्लेरियॉट सॉलिटेयर,AisleRiot Solitaire
+घर के दश्य पर जाएं,Show the log of a file / directory
+हुकुम का पंजा,five of spades
+पथ,Path
+कोई विवरण नहीं,No description
+वर्तमान फाइल संग्रहित करें,Status completed
+संवेदनशील,Sensitive
+#-#-#-#-#gnome-desktop. HEAD. hi. po (gnome-desktop VERSION) #-#-#-#-#अनुप्रयोग #-#-#-#-#nautilus. HEAD. hi. po (nautilus 2. x) #-#-#-#-#उपयोग के लिए,Application Wizard
+वेब,Web
+समुचित न्यास पाइल,appropriate foundation pile
+मान (_ V): ,_ Value:
+डायलाग 1,dialog3
+हुकुम का गुलाम,the jack of spades
+चिपकाएँ (_ P) ,_ Paste
+दृश्य,View
+जेनेरिक GNOME प्रोजेक्ट,A GNOME applet project
+खेल पुनः प्रारंभ करें,Statistics of games played
+डेक में से नया पत्ता चलें,Deal a new card from the deck
+अज्ञात,Unknown
+प्राथमिकताः,Priority:
+बेकार में से पत्ते ले जाएँ,Move card from waste
+~ a को एक खाली फील्ड में ले जाएँ,Move ~ a onto an empty slot.
+डेक में से पत्ता निकालें,Deal a card from the deck
+ढूंढें (_ S) ,_ Search
+स्थान-विशिष्ट,Locale
+स्टार्टअप,Started
+अंगूठा और पॉकेट,Thumb And Pouch
+हुकुम का अट्ठा,Move ~ a onto the eight of spades.
+हाँ,Yes
+मदद,_ Help
+प्रोग्राम पैरामीटर... ,Program Parameters...
+% s का कोई पाठ अंतराफलक नहीं है,% s has no text interface
+अंतः 0,End: 0
+नाम,Name
+~ a को चिड़ी का सत्ता पर ले जाएँ,Move ~ a onto the seven of clubs.
+वर्ग,Summary:
+रेखांकित,Underlined
+मेमोरी,Memory
+ताश प्रसंग इंस्टाल करें... ,Install card themes…
+ढूंढ रहे हैं... ,Searching...
+क्या आपने मदद फ़ाइल पढ़ ली है? ,Have you read the help file?
+तस्वीर में एक खाली खाँचा,an empty slot on the tableau
+% s नियमित फाइल नहीं है,"The value ""% s"" is not part of the enum ""% s"""
+प्रारंभ,Start
+नया खेल,New Game
+कृपया खाली ढेर को पहले भरें. ,Please fill in empty pile first.
+प्लगिन चुनें,Select package
+सिस्टम मेनू,System call:
+#-#-#-#-#gedit. gnome-2-2. hi. po (gedit VERSION) #-#-#-#-#वर्तमान फाइल को एक भिन्न नाम से संग्रहित करें #-#-#-#-#libgnomeui. HEAD. hi. po (libgnomeui HEAD) #-#-#-#-#वर्तमान फाइल को दूसरे नाम से संग्रहित करें,Save the selected Style with the modified parameters.
+घटना मानिटर,Event monitor
+ईंट का छक्का,the six of diamonds
+~ a को काला जोकर पर ले जाएँ. ,Move ~ a onto the black joker.
+शीर्ष,Header _ c
+अनुप्रयोगः,Application:
+खोलें (_ O)... ,_ Open...
+प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां,Plugin with various methods of selecting accessibles quickly.
+सत्रें,Version:
+फाइल लगाएं,Include module Makefile. am
+कड़ी हटा दो,Revert failed
+मदद,Help
+सभी को ताजा करें,Refresh all
+एक छक्का को आप ढूंढ रहे हैं. ,You are searching for a six.
+प्रतीक,Icon
+ढूंढें (_ F)... ,Find:
+बेगम मिटाएँ,Remove the queens
+लाल पान का पंजा,five of hearts
+मोड,Mode
+मिटाया,Deleted
+ऑस्मोसिस,Osmosis
+% s गायब नाम या सूचक,% s missing name or label
+मोन्ते कार्लो,Monte Carlo
+ठहरें (_ P) ,_ Pause
+Generic python (automake) ,Generic python (automake)
+आधार पर खाली खाँचा,empty slot on foundation
+#-#-#-#-#file-roller. gnome-2-2. hi. po (File Roller hindi) #-#-#-#-#नामः #-#-#-#-#gnome-desktop. HEAD. hi. po (gnome-desktop VERSION) #-#-#-#-#नाम: ,New Name:
+सांख्यिकी% Id% d,Statistics
+नाम (_ N): ,_ Name:
+आधार पत्ताः,Base Card:
+एसलिरियोट एक नियम आधारित सॉलिटेयर कार्ड इंजन देता है जो कई भिन्न खेल खेलने के लिए अनुमति देता है. ,AisleRiot provides a rule - based solitaire card engine that allows many different games to be played.
+उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,A list of plugins that are disabled by default.
+नया मेनू (_ N) ,_ New Menu
+परियोजना बन्द करें,Close project
+#-#-#-#-#gedit. gnome-2-2. hi. po (gedit VERSION) #-#-#-#-#काटें #-#-#-#-#gnome-utils. gnome-2-2. hi. po (gnome-utils 2.0) #-#-#-#-#काटो #-#-#-#-#gtkhtml. HEAD. hi. po (GtkHTML 2. x) #-#-#-#-#काटो,C _ ut
+लाल पान का चव्वा,four of hearts
+निजी गुणों को छिपाएं,Hide private attributes
+बाल्सा सूचना,Add License Information
+ढूंढें (_ F)... ,Find:
+काला जोकर,black joker
+~ a को एक खाली आधार में ले जाएँ. ,Move ~ a onto an empty foundation slot.
+डेक में से नया पत्ता चलें,Deal new cards from the deck
+Anjuta शेल,Anjuta Shell
+"% d% d ""in this string this to""% Id% d% d%%%%% ""(U + 0025 PERCENT SIGN) you do NOT need to escape it with another""% ",% d
+Anjuta के लिए नमूना प्लगिन. ,Sample Plugin for Anjuta.
+टिप्पणी,Co _ mment code
+एनीमेशन (_ A) ,_ Animations
+प्लगिन चुनें,Select a plugin
+परियोजना में जोड़ें,_ Add to Project
+ईंट का दहला हटाएँ. ,Remove the three of diamonds.
+मुख्य विंडो की अनुलंब विभाजित की स्थिति. ,Position of the vertical split of the main window.
+खाली खाँचा पर कुछ रखें,Place something on empty slot
+कार्ड थीम “% s” के साथ कार्ड दिखाएं,Display cards with “% s” card theme
+दुक्की मिटाएँ,Remove the twos
+Gdb,Gdb
+वेलेंटाइन,Valentine
+संदर्भ मदद (_ C) ,_ Context Help
+चुनाव को हटाएं (C _) ,C _ lear Selection
+नया खेल,New Game
+ईंट का सत्ता,Move ~ a onto the seven of diamonds.
+बिल्ड% d:% s,Build% d:% s
+नाम,Name
+जोकर मिटाएँ,Remove the jacks
+बेकार को भण्डार में वापस ले जाएँ,Move waste back to stock
+परियोजना नामः,Target name:
+प्रारंभEnd,Start:% d
+लाल पान का गुलाम,the jack of hearts
+प्लग-इन दृश्य (% d) ,Plugin View (% d)
+% s आधार परreserveslot hint,% s on foundation
+एक और पत्ता बाँटें,Deal another card
+लाल पान की तिक्की,the three of hearts
+छैतिज पैमाना,Editor print operations
+कार्रवाई संपन्न करें,Perform action
+"सूर्य किरणें आपको विटामिन डी देती हैं, कम्प्यूटरों के मॉनीटर्स नहीं... ",Monitors won 't give you Vitamin D - - but sunlight will...
+एक तिक्की को आप ढूंढ रहे हैं. ,You are searching for a three.
+अछम,Disassembly
+लाइसेंसः,License:
+~ a को चिड़ी का बादशाह पर ले जाएँ,Move ~ a onto the king of clubs.
+स्तंभ,Columns
+मान,Val _ ue
+ज्यॉर्जियाई,Georgian
+निरसक,Eliminator
+~ a को एक खाली बचा खाँचा में ले जाएँ,Move ~ a onto an empty left slot.
+आधार पत्ताः,Base Card:
+~ a को एक खाली दाएँ स्लॉट में ले जाएँ. ,Move ~ a onto an empty right slot.
+प्लग-इन जिसमें हैं एक्सेसेबेलों को तेजी से चुनने के लिए कई विधियां,Plugin with various methods of selecting accessibles quickly.
+% s गायब नाम या सूचक,% s missing name or label
+फ्रेम,Frame
+उपलब्ध प्रारूप,Disable auto - format
+खण्डन बिन्दु,Breakpoints
+चार मूलाधार,Four Foundations
+हाल में खेले गए खेल के नाम. ,A list of recently played games.
+क्या पंक्ति संख्याएं दिखाना है,Whether to display line numbers
+अज्ञात पत्ता,the unknown card
+रेंडर के लिए पिक्सबफ,The pixbuf to render.
+Scratchbox,Scratchbox
+आधार से पत्तों को नीचे की ले जाने की कोशिश करें,Try moving cards down from the foundation
+खेलें “% s”,Play “% s”
+दस आरपार,Ten Across
+प्रकटन,Appearance
+ऑप्टीमाइज़्ड,Optimized
+शीर्षक,Title
+लाल पान का पंजा,five of hearts
+डायलाग 1,dialog2
+हुकुम का बादशाह हटाएँ. ,Remove the king of spades.
+~ a को पट्ट से बाहर ले जाएँ,Move ~ a off the board
+ईंट का दुक्का के बगल में ईंट का इक्का को रखें. ,Place the two of diamonds next to the ace of diamonds.
+रंग का नाम,Plugin class name
+दाएं बाजू के खाली स्थान पर कुछ ले जाएँ,Move something onto an empty right - hand tableau slot
+लाल पान का सत्ता,seven of hearts
+प्रोजेक्ट,_ Project
+#-#-#-#-#gedit. gnome-2-2. hi. po (gedit VERSION) #-#-#-#-#वर्तमान फाइल को संग्रहित करें #-#-#-#-#libgnomeui. HEAD. hi. po (libgnomeui HEAD) #-#-#-#-#वर्तमान फाइल संग्रहित करें,Save current file
+बेकर्स दर्जन,Bakers Dozen
+एनीमेशन,Optimization
+गुणधर्म,Property
+चिड़ी का गुलाम,jack of clubs
+अनुप्रयोग,Ap _ plication
+काला जोकर,black joker
+संपादन... ,Edit...
+प्रोजेक्ट साफ करें (_ C) ,Create File / Project
+घटना मानिटर,Event monitor
+छापा जा रहा है,Printing
+सभी चुनें,Select _ All
+पंक्तियां,Business
+मौजूदा बफर,Current buffer
+परियोजना विकल्प,Project root URI
+लाल जोकर,Remove the red joker.
+ग्लेड फाइल,_ Glade
+सहेजें,Save
+प्लगइन प्रबंधक,Plugin Manager
+आधार पत्ताः रानी,Base Card: Queen
+हुकुम की दहला के बगल में हुकुम के नहला को रखें. ,Place the ten of spades next to the nine of spades.
+संस्थापित,Install
+आधार पत्ताः,Base Card:
+मदद,Help
+प्रोजेक्ट,Project
+विधि,Method
+~ a को एक क्लब का इक्का पर ले जाएँ,Move ~ a onto the ace of clubs.
+खेल (_ G) ,_ Game
+ताश शैली (_ C) ,_ Card Style
+पिछली चाल पूर्ववत करें,Undo the last move
+आधार पर एक पत्ता ले जाएँ. ,Play a card to foundation.
+विडजेट,WIDGET
+गैप,Gaps
+मिनट्स को अपडेट करें,Update completed
+मेकफाइल आधारित परियोजना,Makefile backend
+ब्लाक दस,Block Ten
+फाइल (F) ,_ File
+ऑस्मोसिस,Osmosis
+लाल पान का बादशाह हटाएँ. ,Remove the six of hearts.
+लाल पान का दहला,ten of hearts
+अगला दस्तावेज़,Next Document
+डेस्कटॉप,Desktop
+पोकर हाथ तैयार करने हेतु ताश के पत्तों को जमाएँ,Place cards on to the Tableau to form poker hands
+चार सूइट,Four Suits
+गुपत अक्षर (_ P): ,Remember Password
+संस्करणः,Version:
+लाल पान का चव्वा,four of hearts
+आर्गुमेंट्सः,Arguments:
+खण्डन बिन्दु,Breakpoints
+अज्ञात मान,Unknown value
+6number,6
+पता,Address
+अस्थायी स्पॉट उपयोग स्वीकारें,Allow temporary spots use
+विंडो चौड़ाई मान. ,The window width value.
+भूलभुलैया,Labyrinth
+प्लगिन अंतरफलक लागू करें,Implement plugin interfaces
+संकेत,Symbols
+दाखिल हो रहा हैः% s,Entering:% s
+मिटाकर लिखें,OVR
+आईडी,Id
+पंक्तियां,Rows
+नीचे के पैनल के लिए लेआउट,The layout for the bottom panel
+सबको हटाओ,Remove Watch
+आवरण,Cover
+बहुत अधिक चयनीय शिशु हैं,Too many selectable children
+सफलतापूर्वक पूर्ण,Completed unsuccessfully
+पूरा प्रोजेक्ट संस्थापित करें,Install whole project
+नया दृश्य... ,_ New view...
+हुकुम का इक्का,the ace of spades
+हाइलाइट बक्से का भराई रंग,The fill color of the highlight box
+सभी वर्तमान काल के संदेश भेजने वालों को उत्तर दें,Display local variables of the current frame
+अट्ठा मिटाएँ,Remove the eights
+आधार पत्ताः,Base Card:
+रोमानियाई,Romanian
+कया आप सचमुच लागाउट करना चाहेंगे? ,Are you sure you want to delete the '% s' tool?
+स्कीमाः,Sche _ ma:
+प्रोजेक्ट प्लान,project name
+अनडू,_ Info
+अपने अनुप्रयोग को पहुंचनीयता व्यायाम का लाभ दें,Give your application an accessibility workout
+चिड़ी का बादशाह हटाएँ. ,Remove the six of clubs.
+परियोजना विकल्प,Project options
+मान,Value
+क्या आपने मदद फ़ाइल पढ़ ली है? ,Have you read the help file?
+चुने गए स्तंभ,Selected columns
+अनुप्रयोग कमांड लाइन पर दस्तावेज़ों को स्वीकारता नहीं है,Application does not accept documents on command line
+शॉर्टकट्स,Shortcuts
+अन्वेषण और प्रतिस्थापन,Find & Replace
+ग्रीक,Tree
+Gdb प्लगिन. ,Gdb plugin.
+पंक्ति संख्या प्रदर्शित करें,Show Line Numbers
+पुस्तक चिह्नों को संपादित करें... ,Edit Bookmarks...
+प्रोफाईलिंग पुन सेट करें,Enable code folding
+इस विंडो को बन्द करें,Close this window
+स्थिति पट्टी (_ S) ,_ Statusbar
+तिहरी चोटी,Triple Peaks
+पंक्ति,Line
+लाल पान का चव्वा,the four of hearts
+Kcard symbol,K
+नहला मिटाएँ,Remove the nines
+लाइसेंस,License
+नियंत्रण (_ C) ,_ Control
+लाल पान की बेगम,the queen of hearts
+प्रोग्राम का संस्करण,Interrupting the process
+नया फ़ाइल,New File
+जानकारी,Information
+ई-मेल पता,Email address:
+लाल पान की गुलाम के बगल में लाल पान के दहला को रखें. ,Place the jack of hearts next to the ten of hearts.
+गुण,Properties
+दिशा,Search Direction:
+एक्सेर्साइसर पसंद,accerciser Preferences
+इंटरफेस,Interface
+शिशु,Children
+पॉपअप संवाद,Popup dialog
+मध्य यूरोपीय,Central European
+चिड़ी की सत्ता के बगल में चिड़ी के छक्का को रखें. ,Place the seven of clubs next to the six of clubs.
+मौजूदा चयन,Cut the selection
+संपादन,Edit
+पत्तों को फिर फेंटें,Reshuffle cards
+सिग्नल,Signals
+~ a को एक लाल पान का इक्का पर ले जाएँ,Move ~ a onto the ace of hearts.
+निगरानी,Watches
+एनीमेशन (_ A) ,_ Animations
+जोड़ें (_ A) ,_ Add…
+विन्यास,Setting
+चेतावनीः,Warning
+सॉलिटेयर,Solitaire
+~ a को हुकुम का छक्का पर घुमाएँ. ,Move ~ a onto the six of spades.
+कोई संकेत उपलब्ध नहीं है,No hint available
+स्पाइडर तीन डेक,Spider Three Decks
+खाली अस्थायी खाँचा पर पत्ता ले जाएँ,Move a card to an empty temporary slot
+#-#-#-#-#gedit. gnome-2-2. hi. po (gedit VERSION) #-#-#-#-#दांया #-#-#-#-#gtkhtml. HEAD. hi. po (GtkHTML 2. x) #-#-#-#-#दांया #-#-#-#-#libgnomeprintui. gnome-2-2. hi. po (libgnomeprintui) #-#-#-#-#दायें,Right
+क़िस्मः,Type:
+खोज का तरीका,Search Action:
+मान,Val _ ue
+छह मूलाधार,Six Foundations
+खोलें (_ O)... ,_ Open...
+फ्रीसेल सॉलिटेयर,Freecell Solitaire
+यह चयन याद रखें,Delete the selection
+आइकान को लोड करने में त्रुटि% s,Error closing project:% s
+फ्रीसेल सॉलिटेयर के बारे मेंscore,About FreeCell Solitaire
+चिड़ी की दुक्की,two of clubs
+अगली चाल हेतु संकेत प्राप्त करें,Get a hint for your next move
+सभी ढेर भरने लायक पत्ते होते तक पहले जैसा करें,Undo until there are enough cards to fill all tableau piles
+वितरण पैकेज रिपोसिटरीज़ से नए कार्ड गेम प्रसंग संस्थापित करें,Install new card themes from the distribution packages repositories
+संशोधनः,Use revision / tag:
+एस्लेरियाट के लिये सहायता देखें,View help for Aisleriot
+नाम,Name
+लाल पान का दुक्का,two of hearts
+भराई का रंगः,Fill color:
+कुलः,Total:
+पिछली चाल पूर्ववत करें,Redo the undone move
+गोल्फ,Golf
+ईंट का पंजा,five of diamonds
+बेगम मिटाएँ,Remove the queens
+3number,3
+प्रसंग फाइल नाम,Theme file name
+फिर से ढूंढो,Find Usage
+उन प्लग-इनों की सूची जिन्हें डिफोल्ट रूप से निष्क्रिय किया गया है,A list of plugins that are disabled by default
+स्तर,Level
+फ़ाइल खोलें,Open file
+शेष ताशः ~ a,Cards remaining: ~ a
+~ a को एक खाली तस्वीर खाँचा पर ले जाएँ. ,Move ~ a onto an empty tableau slot.
+हेलसिंकी,Helsinki
+प्रोजेक्ट बंद करें,Close Pro _ ject
+फ्रीसेल,Freecell
+कोई चाल संभव नहीं. वापस लें या फिर शुरू करें,No moves are possible. Undo or start again.
+बच्चों के बिना अनुप्रयोग छिपाएँ/दिखाएँ (_ H) ,_ Hide / Show Applications without children
+प्लगिन चुनें,Select a plugin
+#-#-#-#-#balsa. HEAD. hi. po (Balsa 2. x) #-#-#-#-#अपडेट #-#-#-#-#gedit. gnome-2-2. hi. po (gedit VERSION) #-#-#-#-#अपडेट (अद्यतन) #-#-#-#-#gnome-applets. gnome-2-2. hi. po (gnome-applets 2. x) #-#-#-#-#अपडेट (अद्यतन) ,_ Update
+अंजूटा विकास स्ट्डियो,- Integrated Development Environment
+मध्यम,Medium
+WIDTHxHEIGHT + XOFF + YOFF,WIDTHxHEIGHT + XOFF + YOFF
+घटना रेकोर्डिंग शुरू करो/रोको,Start / stop event recording
+#-#-#-#-#gedit. gnome-2-2. hi. po (gedit VERSION) #-#-#-#-#इसी स्ट्रिंग को पुनः खोजें #-#-#-#-#libgnomeui. HEAD. hi. po (libgnomeui HEAD) #-#-#-#-#वही स्ट्रिंग को पुन खोजें,New advance search And replace stuff
+लाल पान की दुक्का के बगल में लाल पान के इक्का को रखें. ,Place the two of hearts next to the ace of hearts.
+टैग,Tasks
+क्लॉन्डिके,Klondike
+योजना अपवाद उत्पन्न हुआ,A scheme exception occurred
+हाइलाइट बक्से का सीमांत रंग,The border color of the highlight box
+विंडो की चौड़ाई,Window width
+मिटाएँ,_ Delete…
+गुणधर्म,Attributes
+वैश्विक,Global
+हुकुम का दुक्का,the two of spades
+हुकुम की तिक्की के बगल में हुकुम के दुक्का को रखें. ,Place the three of spades next to the two of spades.
+नयों को टागल करें,Toggle Guides
+टारबाल बिल्ड करें (_ T) ,Build _ Tarball
+Aisleriot पता नहीं कर सका कि आपने कौन सा खेल अंतिम बार प्राप्त किया. ,Aisleriot cannot find the last game you played.
+पूर्ण,Completed
+आईडी,ID
+लाल पान का बादशाह,Move ~ a onto the king of hearts.
+एक दहला को आप ढूंढ रहे हैं. ,You are searching for a ten.
+नया खेल (_ N) ,_ New Game
+लाल पान का सत्ता,seven of hearts
+Anjuta घर पेज (_ H) ,Anjuta Home Page
+पिछली चाल पूर्ववत करें,Undo the last move
+घटनाओं हेतु ध्वनि बजाएँ या नहीं. ,Whether or not to play event sounds.
+लाल पान का चव्वा,the four of hearts
+जेनेरिक प्रोजेक्ट,A generic project
+प्लगिन के द्वारा लागू अंतरफलक,Interface implemented by the plugin
+फुलस्क्रीन (_ F) ,_ Fullscreen
+कोई चाल नहीं. ,No moves.
+एसलिरियोट एक नियम आधारित सॉलिटेयर कार्ड इंजन देता है जो कई भिन्न खेल खेलने के लिए अनुमति देता है. एसलियेरॉट ग्नोम खेल का हिस्सा है. ,AisleRiot provides a rule - based solitaire card engine that allows many different games to be played.
+बेकर्स खेल,Bakers Game
+कुछ नहीं,None
+सोल,Sol
+पंक्ति संख्या,_ Line Number...
+~ a को एक सुरक्षित खाँचा पर ले जाएँ. ,Move ~ a onto the reserve.
+ब्रिस्टल,Bristol
+चार सूइट,Four Suits
+एस्लेरियॉट के बारे में,About Aisleriot
+अपडेट (अद्यतन) ,Update Watch
+रविशंकर श्रीवास्तव (raviratlami @yahoo. com) राजेश रंजन (rajeshkajha @yahoo. com) ल. बालसुब्रमण्यम (l. balasubramaniam @gmail. com) ,translator - credits
+चिड़ी का बादशाह,king of clubs
+"माउस के अधीन जो एक्सेसेबल है, उसे जांचें",Inspect accessible under mouse
+~ a को ईंट का बादशाह पर घुमाएँ. ,Move ~ a onto the king of diamonds.
+अट्ठा मिटाएँ,Remove the eights
+अनुप्रयोग,Application
+खाली अस्थायी खाँचा पर पत्ता ले जाएँ,Move ~ a onto an empty top slot.
+पंक्ति मार्कर्स दिखाएं,Show Line Markers
+संशोधनः,Use revision:
+गाढ़ा,Bold
+श्रेणी,Category
+लाल पान का दहला हटाएँ. ,Remove the four of hearts.
+संदेश,Messages
+सत्र के परिवर्तन स्वयं में संग्रहित करें,Diff local tree with repositry
+सभी को ताजा करें,Refresh all
+अनुप्रयोग,Ap _ plication
+फाइल चयन करें,Select the items to save:
+चिड़ी का सत्ता,seven of clubs
+नया दृश्य... ,_ New view...
+शिशु,Children
+एक खाली तस्वीर,an open tableau
+पुनःआरंभ करें (_ R) ,_ Restart
+मध्य यूरोपीय,Central European
+आइकन फाइलः,Icon File:
+प्लगिन के लिए प्रतीक फाइल,Icon file for the plugin
+मोन्ते कार्लो,Monte Carlo
+सबवर्सन,Subversion Options
+Gdb,Gdb
+एक नहला को आप ढूंढ रहे हैं. ,You are searching for a nine.
+"% s is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. ","% s is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details."
+अंतः 0,End: 0
+पंक्ति,Row
+डायरेक्ट्री,Directories to scan
+"रीसेट करें (_ R) _ Restart ""is the menu item 'Game-> Restart', implies"" Restart Game",_ Reset
+चोर,Thieves
+स्टाक में से पत्ता निकालें,Deal a card from stock
+आरक्षितslot type,reserve
+संबंध,Relations
+गोल्फ,Golf
+घटक,Component
+मदद (_ H) ,_ Help
+जिप्सी,Gypsy
+वर्तमान लिपि (स्क्रिप्ट) खो जाएगी। ,The current script will be lost.
+देखें (_ V) ,_ View
+~ a को एक खाली स्लॉट में ले जाएँ. ,Move ~ a onto an empty slot.
+9,9
+ध्वनि को दोहराएं,Repeat the last Find command
+Anjuta advanced tutorial,Anjuta advanced tutorial
+प्राथमिकताः,Priority:
+गोल्फ,Golf
+जब व्यवसायी न हो तो हाट और शासक भी वह काम करते हैं,"When without a stapler, a staple and a ruler will work"
+घटना रोजनामचा मिटाओ,Clear event log
+ईंट का गुलाम,Move ~ a onto the jack of diamonds.
+"यह प्रायः होता है जब आप एसलिरियोट के पुराने संस्करण को चलाते हैं जिसने खेल नहीं खेला है जो आप अंतिम में खेले हैं. मूलभूत खेल, Klondike, बदले में आरंभ हो रहा है. ","This usually occurs when you run an older version of Aisleriot which does not have the game you last played. The default game, Klondike, is being started instead."
+बतौर रूट संस्थापित करेंः,Install as root:
+लिपि रेकोर्डर,Script Recorder
+पुस्तक-चिह्न संपादित करें (_ E)... ,_ Bookmarks
+फ़ाइल,Files
+कई कमांड एक साथ चलाएँः,Run several commands at a time:
+एक अंतर्क्रियात्मक पाइथन पहुंचनीयता अन्वेषक,An interactive Python accessibility explorer
+ऊपरी पटल के लिए डिफोल्ट प्लग-इन खाका,The layout for the top panel pluginview.
+ताश के खेलः,Card games:
+My tools (error) ,(output)
+कालटिप्स,Calltips
+आधार पत्ताः,Base Card:
+सत्र,Session
+टैब हाशिया दबा रहा है,Pressing tab indents
+#-#-#-#-#file-roller. gnome-2-2. hi. po (File Roller hindi) #-#-#-#-#नामः #-#-#-#-#gnome-desktop. HEAD. hi. po (gnome-desktop VERSION) #-#-#-#-#नाम: ,Name:
+अंतिम बार फोकस किए गए एक्सेसेबल को जांचें,Inspect last focused accessible
+बदलें (_ R) ,_ Replace
+कड़ी की विशेषताएँ,Group properties
+वर्तमान फ़ाइल एक भिन्न नाम से सहेजें,Skip the current conflicted commit and continue
+~ a को ईंट का नहला पर घुमाएँ. ,Move ~ a onto the nine of diamonds.
+साफ़ करें (_ C) ,_ Clear
+~ a को एक लाल पान का गुलाम पर ले जाएँ,Move ~ a onto the jack of hearts.
+संशोधनः,End Revision:
+खाली तस्वीर खाँचा पर पत्तों को ले जाएँ,Move a build of cards on to the empty Tableau slot
+ऐसे फाइल सहेजें,Save file as
+संदेश,Messages
+प्लग-इन दृश्य,Plugin View
+रीयल्मः,Realm:
+खाली तस्वीर खाँचा पर,on to the empty tableau slot
+रिपोर्ट करें (_ R) ,_ Report
+खेल के पास कोई हल नहीं है. वापस ले या फिर शुरू करें. ,The game has no solution. Undo or start again.
+एक पत्ते बांट,Single card deals
+~ a को एक लाल पान का बादशाह पर ले जाएँ,Move ~ a onto the king of hearts.
+पैच प्लगिन,Patching…
+मिटाएँ,Delete
+निरसक,Eliminator
+कोई चाल नहीं. ,No moves.
+प्रोजेक्ट में सोर्स जोड़ें,_ Add To Project
+लाल पान की बेगम,the queen of hearts
+लाल पान का नहला,the nine of hearts
+Pixbuf वस्तु,Pixbuf Object
+विंडो चौड़ाई,Window width
+लाग आन की जानकारी,General Class Properties
+नमूना क्रिया,SymbolDb menu actions
+चेतावनीः,Warning
+एक खाली तस्वीर खाँचा,an empty tableau slot
+दो सूट,Two Suits
+रोमानियन,Armenian
+रूसी,Cyrillic / Russian
+पत्ते बाँटें,Deal the cards
+न्यास,the foundation
+चुनें एक फ़ोल्डर,Select A Folder
+सहेज रहे हैं,Saving
+परिभाषा खिड़की दिखाएं/छिपाएं... (_ S) ,Statement indentation size in spaces:
+स्थान-विशिष्टः,Locale:
+सोर्सफोर्ज,Perl Source File
