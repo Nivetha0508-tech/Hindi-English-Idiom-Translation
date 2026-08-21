@@ -8,7 +8,7 @@ import torch
 # CONFIGURATION
 # ============================================================
 
-MODEL_PATH = "fine_tuned_idiom_model"
+MODEL_PATH = "NivethaT/hindi-english-idiom-translation"
 
 
 # ============================================================
@@ -46,11 +46,15 @@ device = torch.device(
 )
 
 print(f"Device: {device}")
-print(f"Model path: {MODEL_PATH}")
+print(f"Model: {MODEL_PATH}")
+
+print("Downloading/loading tokenizer from Hugging Face...")
 
 tokenizer = MarianTokenizer.from_pretrained(
     MODEL_PATH
 )
+
+print("Downloading/loading model from Hugging Face...")
 
 model = MarianMTModel.from_pretrained(
     MODEL_PATH
@@ -104,7 +108,10 @@ def translate(request: TranslationRequest):
             "error": "Text cannot be empty."
         }
 
-    # Tokenize input
+    # --------------------------------------------------------
+    # Tokenize Hindi input
+    # --------------------------------------------------------
+
     inputs = tokenizer(
         text,
         return_tensors="pt",
@@ -112,13 +119,19 @@ def translate(request: TranslationRequest):
         max_length=128
     )
 
+    # --------------------------------------------------------
     # Move tensors to CPU/GPU
+    # --------------------------------------------------------
+
     inputs = {
         key: value.to(device)
         for key, value in inputs.items()
     }
 
-    # Generate translation
+    # --------------------------------------------------------
+    # Generate English translation
+    # --------------------------------------------------------
+
     with torch.no_grad():
 
         generated_ids = model.generate(
@@ -128,15 +141,22 @@ def translate(request: TranslationRequest):
             early_stopping=True
         )
 
-    # Convert generated tokens to text
+    # --------------------------------------------------------
+    # Decode generated tokens
+    # --------------------------------------------------------
+
     translation = tokenizer.decode(
         generated_ids[0],
         skip_special_tokens=True
     )
+
+    # --------------------------------------------------------
+    # API response
+    # --------------------------------------------------------
 
     return {
         "source_language": "Hindi",
         "target_language": "English",
         "input": text,
         "translation": translation
-    }
+    }   
