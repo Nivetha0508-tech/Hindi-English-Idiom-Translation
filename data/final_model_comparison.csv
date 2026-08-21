@@ -1,0 +1,5 @@
+﻿metric,before_idiom_finetuning,after_idiom_finetuning,unit,improvement
+BLEU,7.85,14.16,score,6.3100000000000005
+Average Word Overlap,37.59,42.46,percent,4.869999999999997
+Exact Matches,0.0,1.0,examples,1.0
+METEOR,,32.43,percent,
