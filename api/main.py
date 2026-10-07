@@ -41,27 +41,29 @@ print("=" * 70)
 print("LOADING HINDI-ENGLISH IDIOM TRANSLATION MODEL")
 print("=" * 70)
 
-device = torch.device(
-    "cuda" if torch.cuda.is_available() else "cpu"
-)
+device = torch.device("cpu")
 
 print(f"Device: {device}")
 print(f"Model: {MODEL_PATH}")
 
-print("Downloading/loading tokenizer from Hugging Face...")
+print("Loading tokenizer...")
 
 tokenizer = MarianTokenizer.from_pretrained(
     MODEL_PATH
 )
 
-print("Downloading/loading model from Hugging Face...")
+print("Loading model...")
 
 model = MarianMTModel.from_pretrained(
-    MODEL_PATH
+    MODEL_PATH,
+    low_cpu_mem_usage=True
 )
 
 model.to(device)
 model.eval()
+
+# Reduce memory used during generation
+model.config.use_cache = False
 
 print("Model loaded successfully.")
 
@@ -135,11 +137,12 @@ def translate(request: TranslationRequest):
     with torch.no_grad():
 
         generated_ids = model.generate(
-            **inputs,
-            max_length=128,
-            num_beams=4,
-            early_stopping=True
-        )
+    **inputs,
+    max_length=64,
+    num_beams=2,
+    early_stopping=True,
+    use_cache=False
+    )
 
     # --------------------------------------------------------
     # Decode generated tokens
