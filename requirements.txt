@@ -9,3 +9,4 @@ sacremoses
 fastapi
 uvicorn
 accelerate
+streamlit
